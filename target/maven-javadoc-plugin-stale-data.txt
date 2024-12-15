@@ -1,0 +1,87 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/darwin/.m2/repository/com/toedter/jcalendar/1.4/jcalendar-1.4.jar;C:/Users/darwin/.m2/repository/com/mysql/mysql-connector-j/9.1.0/mysql-connector-j-9.1.0.jar;C:/Users/darwin/.m2/repository/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar;C:/Users/darwin/.m2/repository/com/puppycrawl/tools/checkstyle/10.20.2/checkstyle-10.20.2.jar;C:/Users/darwin/.m2/repository/info/picocli/picocli/4.7.6/picocli-4.7.6.jar;C:/Users/darwin/.m2/repository/org/antlr/antlr4-runtime/4.13.2/antlr4-runtime-4.13.2.jar;C:/Users/darwin/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar;C:/Users/darwin/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/darwin/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar;C:/Users/darwin/.m2/repository/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar;C:/Users/darwin/.m2/repository/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar;C:/Users/darwin/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:/Users/darwin/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar;C:/Users/darwin/.m2/repository/com/google/errorprone/error_prone_annotations/2.28.0/error_prone_annotations-2.28.0.jar;C:/Users/darwin/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar;C:/Users/darwin/.m2/repository/org/reflections/reflections/0.10.2/reflections-0.10.2.jar;C:/Users/darwin/.m2/repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar;C:/Users/darwin/.m2/repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar;C:/Users/darwin/.m2/repository/net/sf/saxon/Saxon-HE/12.5/Saxon-HE-12.5.jar;C:/Users/darwin/.m2/repository/org/xmlresolver/xmlresolver/5.2.2/xmlresolver-5.2.2.jar;C:/Users/darwin/.m2/repository/org/xmlresolver/xmlresolver/5.2.2/xmlresolver-5.2.2-data.jar;C:/Users/darwin/.m2/repository/org/checkerframework/checker-qual/3.48.2/checker-qual-3.48.2.jar;C:/Users/darwin/.m2/repository/org/apache/maven/doxia/doxia-core/1.12.0/doxia-core-1.12.0.jar;C:/Users/darwin/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.12.0/doxia-sink-api-1.12.0.jar;C:/Users/darwin/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.12.0/doxia-logging-api-1.12.0.jar;C:/Users/darwin/.m2/repository/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar;C:/Users/darwin/.m2/repository/org/codehaus/plexus/plexus-container-default/2.1.0/plexus-container-default-2.1.0.jar;C:/Users/darwin/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar;C:/Users/darwin/.m2/repository/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar;C:/Users/darwin/.m2/repository/org/codehaus/plexus/plexus-component-annotations/2.1.0/plexus-component-annotations-2.1.0.jar;C:/Users/darwin/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar;C:/Users/darwin/.m2/repository/org/apache/commons/commons-text/1.3/commons-text-1.3.jar;C:/Users/darwin/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;C:/Users/darwin/.m2/repository/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;C:/Users/darwin/.m2/repository/org/apache/maven/doxia/doxia-module-xdoc/1.12.0/doxia-module-xdoc-1.12.0.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/darwin/Documents/NetBeansProjects/mySql-DZ1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/darwin/Documents/NetBeansProjects/mySql-DZ1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mySql-DZ1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mySql-DZ1 1.0-SNAPSHOT API'
+com.mycompany.mysql.dz1
+configuration
+Controller
+model
+View
+C:\Users\darwin\.m2\repository\com\toedter\jcalendar\1.4\jcalendar-1.4.jar = 1731604615605
+C:\Users\darwin\.m2\repository\com\mysql\mysql-connector-j\9.1.0\mysql-connector-j-9.1.0.jar = 1731615334569
+C:\Users\darwin\.m2\repository\com\google\protobuf\protobuf-java\4.26.1\protobuf-java-4.26.1.jar = 1731615165153
+C:\Users\darwin\.m2\repository\com\puppycrawl\tools\checkstyle\10.20.2\checkstyle-10.20.2.jar = 1733014623041
+C:\Users\darwin\.m2\repository\info\picocli\picocli\4.7.6\picocli-4.7.6.jar = 1733014623836
+C:\Users\darwin\.m2\repository\org\antlr\antlr4-runtime\4.13.2\antlr4-runtime-4.13.2.jar = 1733014624374
+C:\Users\darwin\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar = 1733014623822
+C:\Users\darwin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1733014623544
+C:\Users\darwin\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar = 1733014624518
+C:\Users\darwin\.m2\repository\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar = 1733014626153
+C:\Users\darwin\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar = 1733014624100
+C:\Users\darwin\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar = 1733014624109
+C:\Users\darwin\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar = 1733014624262
+C:\Users\darwin\.m2\repository\com\google\errorprone\error_prone_annotations\2.28.0\error_prone_annotations-2.28.0.jar = 1733014624242
+C:\Users\darwin\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar = 1733014624443
+C:\Users\darwin\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar = 1733014624798
+C:\Users\darwin\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar = 1733014631209
+C:\Users\darwin\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar = 1733014624772
+C:\Users\darwin\.m2\repository\net\sf\saxon\Saxon-HE\12.5\Saxon-HE-12.5.jar = 1733014635983
+C:\Users\darwin\.m2\repository\org\xmlresolver\xmlresolver\5.2.2\xmlresolver-5.2.2.jar = 1733014625330
+C:\Users\darwin\.m2\repository\org\xmlresolver\xmlresolver\5.2.2\xmlresolver-5.2.2-data.jar = 1733014627434
+C:\Users\darwin\.m2\repository\org\checkerframework\checker-qual\3.48.2\checker-qual-3.48.2.jar = 1733014628075
+C:\Users\darwin\.m2\repository\org\apache\maven\doxia\doxia-core\1.12.0\doxia-core-1.12.0.jar = 1733014627891
+C:\Users\darwin\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.12.0\doxia-sink-api-1.12.0.jar = 1733014628258
+C:\Users\darwin\.m2\repository\org\apache\maven\doxia\doxia-logging-api\1.12.0\doxia-logging-api-1.12.0.jar = 1733014628443
+C:\Users\darwin\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar = 1733014628937
+C:\Users\darwin\.m2\repository\org\codehaus\plexus\plexus-container-default\2.1.0\plexus-container-default-2.1.0.jar = 1733014629250
+C:\Users\darwin\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.6.0\plexus-classworlds-2.6.0.jar = 1733014628765
+C:\Users\darwin\.m2\repository\org\apache\xbean\xbean-reflect\3.7\xbean-reflect-3.7.jar = 1733014629142
+C:\Users\darwin\.m2\repository\org\codehaus\plexus\plexus-component-annotations\2.1.0\plexus-component-annotations-2.1.0.jar = 1733014629275
+C:\Users\darwin\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar = 1733014629464
+C:\Users\darwin\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar = 1733014629599
+C:\Users\darwin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar = 1733014631098
+C:\Users\darwin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar = 1733014629948
+C:\Users\darwin\.m2\repository\org\apache\maven\doxia\doxia-module-xdoc\1.12.0\doxia-module-xdoc-1.12.0.jar = 1733014630123
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\src\main\java = 1731556385239
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\allclasses-index.html = 1733015185284
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\allpackages-index.html = 1733015185294
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\element-list = 1733015181566
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\help-doc.html = 1733015187139
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\index-all.html = 1733015186973
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\index.html = 1733015185159
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\jquery-ui.overrides.css = 1733015187264
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\member-search-index.js = 1733015185371
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\module-search-index.js = 1733015185299
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\overview-summary.html = 1733015186981
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\overview-tree.html = 1733015185134
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\package-search-index.js = 1733015185304
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\script.js = 1733015187160
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\search.js = 1733015187168
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\serialized-form.html = 1733015183126
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\stylesheet.css = 1733015187148
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\tag-search-index.js = 1733015185384
+C:\Users\darwin\Documents\NetBeansProjects\mySql-DZ1\target\reports\apidocs\type-search-index.js = 1733015185354

@@ -1,0 +1,6 @@
+Controller\ControllerSuite.class
+Controller\ControllerProductTest.class
+Controller\ControllerReceiptTest.class
+Controller\ControllerBookTest.class
+Controller\ControllerCustomerTest.class
+Controller\ControllerSellTest.class

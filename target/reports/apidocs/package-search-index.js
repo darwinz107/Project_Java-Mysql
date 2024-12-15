@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.mysql.dz1"},{"l":"configuration"},{"l":"Controller"},{"l":"model"},{"l":"View"}];updateSearchResults();
