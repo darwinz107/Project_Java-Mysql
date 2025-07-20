@@ -6,35 +6,51 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <dependencies>
+        <!-- JCalendar: Selector de fechas con interfaz gráfica -->
         <dependency>
             <groupId>com.toedter</groupId>
             <artifactId>jcalendar</artifactId>
             <version>1.4</version>
         </dependency>
-<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+
+<!-- MySQL Connector: Permite conexión con bases de datos MySQL -->
 <dependency>
     <groupId>com.mysql</groupId>
     <artifactId>mysql-connector-j</artifactId>
     <version>9.1.0</version>
 </dependency>
+<!-- JUnit: Pruebas unitarias -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
+        <!-- Hamcrest: Matchers para facilitar aserciones en JUnit -->
         <dependency>
             <groupId>org.hamcrest</groupId>
             <artifactId>hamcrest-core</artifactId>
             <version>1.3</version>
             <scope>test</scope>
         </dependency>
+
+<!-- Checkstyle: Revisión de estilo de código -->
         <dependency>
     <groupId>com.puppycrawl.tools</groupId>
     <artifactId>checkstyle</artifactId>
     <version>10.20.2</version>
-</dependency>
+    <scope>test</scope>
+        </dependency>
+        <!-- Log4j: Sistema de logging -->
+<dependency>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-core</artifactId>
+    <version>3.0.0-beta3</version>
+     <scope>test</scope>
+</dependency>    
+
     </dependencies>
+
     <reporting>
         <plugins>
       
